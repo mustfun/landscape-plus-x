@@ -1,4 +1,21 @@
-# Landscape plus
+# Landscape plus x
+
+本版本基于[xiangming](https://github.com/xiangming/landscape-plus.git) 制作，在原有基础上大大美观了原始主题，包括不仅限于下面几点
+
+演示[地址](mustfun.github.io)
+
+- 增大整体字体
+- 替换代码背景
+- 调大h系列标签
+- 更多小细节，自己看演示吧
+
+
+
+
+
+**下面是原版介绍**
+
+----------------------------------
 
 [![Join the chat at https://gitter.im/xiangming/landscape-plus](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/xiangming/landscape-plus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
