@@ -2,7 +2,7 @@
 
 本版本基于[xiangming](https://github.com/xiangming/landscape-plus.git) 制作，在原有基础上大大美观了原始主题，包括不仅限于下面几点
 
-演示[地址](mustfun.github.io)
+演示[地址](https://mustfun.github.io/)
 
 - 增大整体字体
 - 替换代码背景
